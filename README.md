@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya
-- 👀 I’m interested in backend development
+- 👀 I’m interested in backend development and linux
 - 🌱 I’m currently learning django, sql and more other yummy stuff that will help me out in future (snp*)
 - 💞️ I’m looking to collaborate on everything associated with (python + django)
 - 📫 How to reach me: telegram: @tom11la
