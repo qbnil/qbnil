@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilya
 - 👀 I’m interested in backend development and linux
 - 🌱 Dev stack: php, symfony, webpack-encore, postgresql, javascript
-- 💞️ I’m looking to collaborate on everything associated with (python + django)
+- 💞️ I’m looking to collaborate on everything associated with (php, symfony, api development, fullstack dev)
 - 📫 How to reach me: telegram: @tom11la
