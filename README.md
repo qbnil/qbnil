@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ilya
+- 👋 Archi
 - 👀 I’m interested in backend development and linux
 - 🌱 Dev stack: php, symfony, webpack-encore, postgresql, javascript
 - 💞️ I’m looking to collaborate on everything associated with (php, symfony, api development, fullstack dev)
